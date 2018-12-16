@@ -1,4 +1,4 @@
-# CLOUD FAQ v. 1.0 (16-01-2018)
+# CLOUD FAQ v. 1.0 (16-12-2018)
 
 - ***A che serve questo spazio cloud?*** Serve a condividere appunti, esami, esercizi e idee tra studenti iscritti al corso di laurea magistrale in Data Science presso la Scuola di Scienze dell’Università degli Studi di Padova. Non è in alcun modo collegato con l’università ma è uno spazio gestito da studenti, per studenti. 
 
