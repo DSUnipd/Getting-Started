@@ -48,7 +48,7 @@ I responsabili di progetto che non seguano o non applichino il Codice di Condott
 
 ## Attribuzione
 
-Questo codice di condotta è tratto e adattato da [Contributor Covenant][homepage], versione 1.4, disponibile su [http://contributor-covenant.org/version/1/4][version] (in inglese)
+Questo codice di condotta è tratto e adattato da [Contributor Covenant][homepage], versione 1.4, disponibile su [http://contributor-covenant.org/version/1/4][version] In inglese.
 
 [homepage]: http://contributor-covenant.org
 [versione]: http://contributor-covenant.org/version/1/4/
