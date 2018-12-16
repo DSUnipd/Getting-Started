@@ -1,2 +1,27 @@
-# Getting-Started
+Getting_Started
+
 All about DSUnipd. This is the right place to find information and understand how to contribute in other repositories.
+
+## How to contribute
+
+First of all respect everyone, if you want to contribute in one or more of our projects you must respect our [Code of Conduct](https://github.com/DSUnipd/Getting-Started/blob/master/CODE_OF_CONDUCT.md).
+
+Here you can find all the [guidelines to contribute in related projects](https://github.com/DSUnipd/Getting-Started/blob/master/CONTRIBUTING.md) (in Italian).
+
+### The easy steps to contribute to this repository
+
+Everyone can help our organization to be even better.
+
+1. Fork this repository in Github, by clicking the "Fork" button in the topright corner. 
+2. Clone this repository (the better way is using [SSH](https://help.github.com/articles/connecting-to-github-with-ssh/)) with the command `git clone link_of_the_repository`.
+3. Add your changes
+4. [Submit a Pull Request](https://github.com/DSUnipd/Getting-Started/blob/master/CONTRIBUTING.md#pull-requests).
+
+If the Pull Request will be accepted, your changes will be part of our project. Thanks for contributing.
+
+If you [find a bug](https://github.com/DSUnipd/Getting-Started/blob/master/CONTRIBUTING.md#segnalare-bug) or want to suggest an [enhancement](https://github.com/DSUnipd/Getting-Started/blob/master/CONTRIBUTING.md#suggerire-miglioramenti), use the Github Issues system.
+
+Please, [don't forget to use labels](https://github.com/DSUnipd/Getting-Started/blob/master/CONTRIBUTING.md#etichette-per-le-issue-e-pull-request) in your issues or pull requests.
+
+Wanna join our group? Why not? Check our [organization on Github](https://github.com/DSUnipd), [drop an email](mailto:dsup@tuta.io) or follow [our social accounts](https://github.com/DSUnipd/Getting-Started/blob/master/DSUnipd_Rules.md#DSUnipd-nei-social).
+
