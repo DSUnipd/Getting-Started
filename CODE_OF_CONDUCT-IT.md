@@ -1,5 +1,5 @@
 
-# <img src="https://github.com/DSUnipd/Getting_Started/blob/master/res/img/italy_flag_circle.png" width="48"> Codice di Condotta - Patto del contributore 
+# <img src="https://github.com/DSUnipd/Getting-Started/blob/master/res/img/italy_flag_circle.png" width="48"> Codice di Condotta - Patto del contributore 
 
 ## Intro
 La traduzione inglese di questo Codice di Condotta è disponibile [qui](https://github.com/DSUnipd/Getting-Started/blob/master/CODE_OF_CONDUCT.md).
