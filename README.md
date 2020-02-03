@@ -1,6 +1,7 @@
 Getting_Started
 
 All about DSUnipd. This is the right place to find information and understand how to contribute in other repositories.
+This repo is born based on FIUP. Don't you know FIUP? Let's have a look [here](https://github.com/FIUP/Getting-Started).
 
 ## How to contribute
 
